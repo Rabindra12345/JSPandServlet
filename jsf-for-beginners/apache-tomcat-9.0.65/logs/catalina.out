@@ -1,0 +1,42 @@
+17-Apr-2023 10:02:37.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.65
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 14 2022 12:28:53 UTC
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.65.0
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-38-generic
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_362-8u362-ga-0ubuntu1~22.04-b09
+17-Apr-2023 10:02:37.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+17-Apr-2023 10:02:37.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65
+17-Apr-2023 10:02:37.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65
+17-Apr-2023 10:02:37.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/conf/logging.properties
+17-Apr-2023 10:02:37.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Apr-2023 10:02:37.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-Apr-2023 10:02:37.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Apr-2023 10:02:37.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+17-Apr-2023 10:02:37.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-Apr-2023 10:02:37.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65
+17-Apr-2023 10:02:37.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65
+17-Apr-2023 10:02:37.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/temp
+17-Apr-2023 10:02:37.661 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+17-Apr-2023 10:02:38.154 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-Apr-2023 10:02:38.187 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [802] milliseconds
+17-Apr-2023 10:02:38.233 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-Apr-2023 10:02:38.233 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.65]
+17-Apr-2023 10:02:38.243 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/manager]
+17-Apr-2023 10:02:38.547 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/manager] has finished in [304] ms
+17-Apr-2023 10:02:38.548 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/examples]
+17-Apr-2023 10:02:38.808 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/examples] has finished in [260] ms
+17-Apr-2023 10:02:38.809 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/docs]
+17-Apr-2023 10:02:38.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/docs] has finished in [19] ms
+17-Apr-2023 10:02:38.829 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/ROOT]
+17-Apr-2023 10:02:38.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/ROOT] has finished in [18] ms
+17-Apr-2023 10:02:38.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/host-manager]
+17-Apr-2023 10:02:38.870 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/oaker/JSP and Servlet/jsf-for-beginners/apache-tomcat-9.0.65/webapps/host-manager] has finished in [23] ms
+17-Apr-2023 10:02:38.874 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Apr-2023 10:02:38.893 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [705] milliseconds
+17-Apr-2023 10:03:10.215 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+17-Apr-2023 10:03:10.216 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Apr-2023 10:03:10.220 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Apr-2023 10:03:10.253 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Apr-2023 10:03:10.264 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
